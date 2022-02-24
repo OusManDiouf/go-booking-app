@@ -1,5 +1,7 @@
 # Sample Booking App in Golang
 
+- Built in go 1.16
+
 This project use the following packages:
 
 Routing:
